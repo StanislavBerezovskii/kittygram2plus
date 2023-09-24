@@ -1,4 +1,4 @@
-### КLaunching the Project:
+### Launching the Project:
 
 Clone the repository and switch to it in the command line:
 
